@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="196363" started-at="2021-06-01T06:12:58Z" finished-at="2021-06-01T06:16:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="196363" started-at="2021-06-01T06:12:58Z" finished-at="2021-06-01T06:16:14Z">
+      <class name="com.lambdatest.TestNGWindows10">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.lambdatest.TestNGWindows10@675d3402]" name="setup" is-config="true" duration-ms="5574" started-at="2021-06-01T11:42:58Z" finished-at="2021-06-01T11:43:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambdatest.TestNGWindows10.basicTest() throws java.lang.InterruptedException,java.awt.AWTException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@69ea3742]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="basicTest()[pri:0, instance:com.lambdatest.TestNGWindows10@675d3402]" name="basicTest" duration-ms="27256" started-at="2021-06-01T11:43:04Z" finished-at="2021-06-01T11:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lambdatest.TestNGWindows10@675d3402]" name="tearDown" is-config="true" duration-ms="1777" started-at="2021-06-01T11:43:31Z" finished-at="2021-06-01T11:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambdatest.TestNGWindows10 -->
+      <class name="com.lambdatest.TestNGMacOS">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.lambdatest.TestNGMacOS@482f8f11]" name="setup" is-config="true" duration-ms="16213" started-at="2021-06-01T11:44:10Z" finished-at="2021-06-01T11:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambdatest.TestNGMacOS.basicTest() throws java.lang.InterruptedException,java.awt.AWTException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@69ea3742]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="basicTest()[pri:0, instance:com.lambdatest.TestNGMacOS@482f8f11]" name="basicTest" duration-ms="106491" started-at="2021-06-01T11:44:26Z" finished-at="2021-06-01T11:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lambdatest.TestNGMacOS@482f8f11]" name="tearDown" is-config="true" duration-ms="1754" started-at="2021-06-01T11:46:13Z" finished-at="2021-06-01T11:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambdatest.TestNGMacOS -->
+      <class name="com.lambdatest.TestNGWindows7">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.lambdatest.TestNGWindows7@51565ec2]" name="setup" is-config="true" duration-ms="5999" started-at="2021-06-01T11:43:33Z" finished-at="2021-06-01T11:43:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambdatest.TestNGWindows7.basicTest() throws java.lang.InterruptedException,java.awt.AWTException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@69ea3742]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="basicTest()[pri:0, instance:com.lambdatest.TestNGWindows7@51565ec2]" name="basicTest" duration-ms="29543" started-at="2021-06-01T11:43:39Z" finished-at="2021-06-01T11:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lambdatest.TestNGWindows7@51565ec2]" name="tearDown" is-config="true" duration-ms="1729" started-at="2021-06-01T11:44:08Z" finished-at="2021-06-01T11:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambdatest.TestNGWindows7 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
